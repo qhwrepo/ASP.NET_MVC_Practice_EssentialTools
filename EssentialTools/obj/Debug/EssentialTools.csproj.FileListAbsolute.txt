@@ -41,6 +41,15 @@ E:\Web\EssentialTools\EssentialTools\bin\System.Web.Webpages.Deployment.xml
 E:\Web\EssentialTools\EssentialTools\bin\System.Web.Webpages.Razor.xml
 E:\Web\EssentialTools\EssentialTools\bin\System.Web.Helpers.xml
 E:\Web\EssentialTools\EssentialTools\bin\System.Web.Mvc.xml
-E:\Web\EssentialTools\EssentialTools\obj\Debug\EssentialTools.csprojResolveAssemblyReference.cache
 E:\Web\EssentialTools\EssentialTools\obj\Debug\EssentialTools.dll
 E:\Web\EssentialTools\EssentialTools\obj\Debug\EssentialTools.pdb
+E:\Web\EssentialTools\EssentialTools\bin\Ninject.dll
+E:\Web\EssentialTools\EssentialTools\bin\Ninject.Web.Common.dll
+E:\Web\EssentialTools\EssentialTools\bin\Ninject.Web.Mvc.dll
+E:\Web\EssentialTools\EssentialTools\bin\WebActivator.dll
+E:\Web\EssentialTools\EssentialTools\bin\Ninject.pdb
+E:\Web\EssentialTools\EssentialTools\bin\Ninject.xml
+E:\Web\EssentialTools\EssentialTools\bin\Ninject.Web.Common.pdb
+E:\Web\EssentialTools\EssentialTools\bin\Ninject.Web.Common.xml
+E:\Web\EssentialTools\EssentialTools\bin\Ninject.Web.Mvc.pdb
+E:\Web\EssentialTools\EssentialTools\bin\Ninject.Web.Mvc.xml
