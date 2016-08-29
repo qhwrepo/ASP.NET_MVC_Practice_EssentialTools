@@ -53,3 +53,4 @@ E:\Web\EssentialTools\EssentialTools\bin\Ninject.Web.Common.pdb
 E:\Web\EssentialTools\EssentialTools\bin\Ninject.Web.Common.xml
 E:\Web\EssentialTools\EssentialTools\bin\Ninject.Web.Mvc.pdb
 E:\Web\EssentialTools\EssentialTools\bin\Ninject.Web.Mvc.xml
+E:\Web\EssentialTools\EssentialTools\obj\Debug\EssentialTools.csprojResolveAssemblyReference.cache
